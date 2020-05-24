@@ -1,0 +1,4 @@
+----
+layout: competition
+title: 'Competition'
+----
